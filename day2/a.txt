@@ -1,0 +1,5 @@
+palindrome chck using func
+Nelson number chck: 222 
+Perfect check using func
+Prime check usign func
+
